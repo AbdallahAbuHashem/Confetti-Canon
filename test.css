@@ -5,7 +5,8 @@ body {
 }
 
 #canvas {
-    background: linear-gradient(#9FF781, #F3F781);
+    background-image: url("temp.jpg");
+    background-size: cover;
 }
 
 .copy {
